@@ -1,4 +1,4 @@
-muutos!
+
 
 class Varasto:
     def __init__(self, tilavuus, alku_saldo = 0):
