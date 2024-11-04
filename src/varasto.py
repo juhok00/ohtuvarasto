@@ -37,11 +37,8 @@ class Varasto:
 
             return kaikki_mita_voidaan
 
-
-# - merkki vaihdettu + merkiksi
-
 		
-        self.saldo = self.saldo + maara
+        self.saldo = self.saldo - maara
 
 
 
